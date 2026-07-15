@@ -2,3 +2,5 @@ Hoy aprendí a utilizar Git.
 Aprendí a crear commits.
 Aprendí a trabajar con GitHub.
 También aprendí a clonar repositorios y trabajar con GitHub.
+Aprendí a revisar los cambios antes de hacer un commit.
+Aprendí a utilizar git diff para comparar modificaciones.
