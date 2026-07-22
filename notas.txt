@@ -5,3 +5,5 @@ También aprendí a clonar repositorios y trabajar con GitHub.
 Aprendí a revisar los cambios antes de hacer un commit.
 Aprendí a utilizar git diff para comparar modificaciones.
 Aprendí a utilizar git restore para deshacer cambios.
+Nueva linea- practica stash
+ESTA INFORMACIÓN ES INCORRECTA.
