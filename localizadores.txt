@@ -1,0 +1,8 @@
+Elemento              | Tipo | Selector CSS            | ¿Funcionó?
+---------------------------------------------------------------
+Botón                 | Etiqueta | button              | Sí
+Link                  | Etiqueta | a                   | Sí
+Título                | Etiqueta | h1                  | Sí
+Sección principal      | ID       | #hero               | Sí
+Contenedor            | Clase    | .relative           | Sí
+Botón por atributo    | Atributo | button[type="button"] | Sí
